@@ -17,7 +17,7 @@
       <plugin>
         <groupId>org.robovm</groupId>
         <artifactId>robovm-maven-plugin</artifactId>
-        <version>0.0.9.1</version>
+        <version>0.0.10.1-SNAPSHOT</version>
         <configuration>
           <config>
             <mainClass>org.robovm.sample.ios.RoboVMSampleIOSApp</mainClass>
@@ -33,12 +33,12 @@
     <dependency>
       <groupId>org.robovm</groupId>
       <artifactId>robovm-rt</artifactId>
-      <version>0.0.9</version>
+      <version>0.0.10</version>
     </dependency>
     <dependency>
       <groupId>org.robovm</groupId>
       <artifactId>robovm-cocoatouch</artifactId>
-      <version>0.0.9</version>
+      <version>0.0.10</version>
     </dependency>
   </dependencies>
 
